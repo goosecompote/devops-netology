@@ -3,3 +3,5 @@
 Игнорируются .terraform  
 Каталог.terraform.lock.hcl  
 Файлы состояния terraform.tfstate и резервные копии
+
+add new line
